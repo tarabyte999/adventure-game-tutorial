@@ -1,0 +1,10 @@
+C:\repos\AdventureGame\SuperAdventure\SuperAdventure\bin\Debug\SuperAdventure.exe.config
+C:\repos\AdventureGame\SuperAdventure\SuperAdventure\bin\Debug\SuperAdventure.exe
+C:\repos\AdventureGame\SuperAdventure\SuperAdventure\bin\Debug\SuperAdventure.pdb
+C:\repos\AdventureGame\SuperAdventure\SuperAdventure\bin\Debug\Engine.dll
+C:\repos\AdventureGame\SuperAdventure\SuperAdventure\bin\Debug\Engine.pdb
+C:\repos\AdventureGame\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.csprojResolveAssemblyReference.cache
+C:\repos\AdventureGame\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.Properties.Resources.resources
+C:\repos\AdventureGame\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.csproj.GenerateResource.Cache
+C:\repos\AdventureGame\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.exe
+C:\repos\AdventureGame\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.pdb
